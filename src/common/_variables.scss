@@ -1,0 +1,16 @@
+// colors
+$primary: #007bff;
+$white: #fff;
+$paleGrey: #f8f9fb;
+$grey: #dddddd;
+$blue: #27a2ff;
+$pink: #e54d93;
+
+:export {
+  primary: $primary;
+  white: $white;
+  paleGrey: $paleGrey;
+  grey: $grey;
+  blue: $blue;
+  pink: $pink;
+}

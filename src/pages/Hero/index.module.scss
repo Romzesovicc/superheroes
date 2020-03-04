@@ -1,0 +1,16 @@
+.heroBlock {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.heroData {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  img {
+    width: 400px;
+    height: 500px;
+  }
+}
